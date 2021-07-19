@@ -59,3 +59,11 @@ export const Message = styled.span`
   font-size: 50px;
   color: #fff;
 `
+
+export const ErrorMsg = styled.span`
+  display: block;
+  font-size: 0.65rem;
+  color: red;
+  font-weight: 600;
+  margin-top: 1rem;
+`
